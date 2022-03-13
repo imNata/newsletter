@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    /* background-color: rgb(163, 163, 212); */
+    background-color: white;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    color: #05CFB1;
+}
+
+img {
+    height: 250px;
+    width: 300px;
+}
+
+input {
+    margin: 3px;
+    text-align: justify;
+    height: 30px;
+    width: 210px;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: black;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    height: 60px;
+    padding: 10px;
+    font-size: 1.5rem;
+    border: 3px solid #2F4357;
+    border-radius: 100px;
+    background-color: #05CFB1;
+}
